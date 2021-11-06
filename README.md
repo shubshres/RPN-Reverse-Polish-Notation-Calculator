@@ -23,6 +23,7 @@ Translated into RPN: 4 2 5 * + 1 3 2 * + /
 Code is able to read the input file from the same folder.
 
 Extra credit (5 points each) -- Only Did Part B
+
 A) Write a separate program that can input an algebraic expression and convert it to RPN and then evaluate the RPN. Print the RPN and the result in separate lines. If you are implementing extra credit, your file should be name as <netid>_EC.py. The input file name will be input_RPN_EC.txt and it will have algebraic expressions.
   
 B) Add at least one more operator (unary subtraction, or modulo division, etc.). You must document what operators you are adding. Add which ones to comments and make sure to include that as well in your submission so the GTA knows to test using the extra scenarios.
