@@ -1,5 +1,5 @@
 # RPN-Reverse-Polish-Notation-Calculator-
-Created a RPN (Reverse Polish Notation) Calculator Using Python
+Created an RPN (Reverse Polish Notation) Calculator Using Python
 Used Python to create a simple calculator that accepts Reverse Polish Notation (RPN) and displays the final answer (Intermediate steps or results need not be displayed).
 
 It only accepts 4 operators “+”, “-“, “*”, “/”.
